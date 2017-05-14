@@ -1,2 +1,2 @@
 # hello-world
-Just a sample repository
+Taking the obligatory tutorial because I tend to follow rules. Sometimes.
